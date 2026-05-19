@@ -4,14 +4,7 @@ AI-powered Resume Screening System using NLP (TF-IDF &amp; Cosine Similarity) to
 📄 AI Resume Screening System (NLP)
 An AI-powered Resume Screening System that automates candidate evaluation using Natural Language Processing (NLP) and Machine Learning. It helps recruiters shortlist candidates based on job descriptions quickly and efficiently.
 
-🚀 Demo
-🔗 Add your deployed link here (Streamlit / Render / HuggingFace Spaces)  
-
-📸 Screenshots
-
-![Home UI](screenshots/home.png)  
-![Upload UI](screenshots/upload.png)  
-![Results UI](screenshots/results.png)
+Demo🔗:- https://resume-screening-nlp.streamlit.app/
 
 🧠 Features
 - Upload resumes (PDF/DOCX)
@@ -28,17 +21,8 @@ An AI-powered Resume Screening System that automates candidate evaluation using 
 - numpy  
 - nltk / spacy  
 - PyPDF2 / python-docx  
-- Streamlit 
-
-📂 Project Structure
-resume-screening-nlp/
-├── app.py
-├── similarity.py
-├── requirements.txt
-├── README.md
-├── screenshots/
-└── sample_data/
-
+- Streamlit
+-
 ⚙️ Installation & Setup
 
 1. Clone the Repository
@@ -78,19 +62,17 @@ streamlit run app.py
 - Cloud deployment (AWS/Docker)
 - Email notifications
 
-📈 ATS Keywords
-Artificial Intelligence, Machine Learning, NLP, Resume Screening, Recruitment Automation, Python, Scikit-learn, Data Science, Text Processing, Cosine Similarity, Streamlit
-
-Contributing
 Feel free to fork this repo and submit pull requests.
 
 MIT License
 
-👨‍💻 Author
+👨‍💻 Author:-
+
 Prayag Rajyaguru
-LinkedIn:www.linkedin.com/in/prayag-rajyaguru
+
+LinkedIn:www.linkedin.com/in/prayag-rajyaguru                                                                                                                  
 Email:prayagrajyaguru72@gmail.com  
 
 
-⭐ Support
+Support
 If you like this project, give it a ⭐ on GitHub!
